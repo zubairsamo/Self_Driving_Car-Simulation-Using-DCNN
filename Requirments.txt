@@ -1,0 +1,8 @@
+Udacity Simulator term 1
+Tensorflow
+keras
+eventlet
+python socketio
+flask
+PIL Image
+Base64
